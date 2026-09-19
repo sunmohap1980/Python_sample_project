@@ -3,7 +3,7 @@ def greet(name: str = "World") -> str:
 
 
 def main() -> None:
-    print(greet("Developer"))
+    print(greet("Hello Developer"))
     print("This project is running successfully.")
 
 
